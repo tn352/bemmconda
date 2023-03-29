@@ -1,0 +1,19 @@
+name: pythonProject1
+channels:
+  - bioconda
+  - conda-forge/label/gcc7
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10.6
+  - python-dateutil=2.8.2
+  - pip:
+    - sentencepiece
+    - ipywidgets==7.6.5
+    - plotly==5.13.1
+    - matplotlib==3.7.0
+    - numpy==1.23.5
+    - pandas==1.5.3
+    - seaborn==0.12.2
+    - python-dateutil==2.8.2
+    - voila==0.4.0
