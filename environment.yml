@@ -1,0 +1,20 @@
+name: pythonProject1
+channels:
+  - bioconda
+  - conda-forge/label/gcc7
+  - conda-forge
+  - defaults
+dependencies:
+  - name: fastai2
+dependencies:
+  - seaborn
+  - pillow
+  - ipywidgets
+  - voila
+  - matplotlib
+  - ipywidgets==8.0.4
+  - voila-gridstack
+  - numpy
+  - pip
+  - pip:
+    - sentencepiece
