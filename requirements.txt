@@ -6,4 +6,4 @@ numpy==1.23.5
 pandas==1.5.3
 seaborn==0.12.2
 python-dateutil==2.8.2
-voila>=0.4.0
+voila==0.1.21
