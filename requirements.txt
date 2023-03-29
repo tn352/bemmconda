@@ -1,8 +1,0 @@
-ipywidgets==8.0.4
-plotly==5.13.1
-matplotlib>=3.5.3
-numpy>=1.21.6
-pandas>=1.3.5
-seaborn==0.12.2
-voila==0.4.0
-voila-gridstack==0.3.1
