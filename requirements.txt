@@ -2,7 +2,7 @@ ipyvuetify>=0.1.9
 voila-vuetify>=0.0.1a6
 ipywidgets==8.0.4
 plotly==5.13.1
-matplotlib==3.7.1
+matplotlib>=3.5.3
 numpy==1.23.5
 Fiona==1.8.21
 Shapely==1.8.5
