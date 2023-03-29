@@ -1,5 +1,13 @@
-voila>=0.1.8
 ipyvuetify>=0.1.9
 voila-vuetify>=0.0.1a6
-bqplot
-numpy
+ipywidgets==8.0.4
+plotly==5.13.1
+matplotlib==3.7.1
+numpy==1.23.5
+Fiona==1.8.21
+Shapely==1.8.5
+pandas==1.5.3
+seaborn==0.12.2
+geopandas==0.11.1
+voila==0.4.0
+voila-gridstack==0.3.1
