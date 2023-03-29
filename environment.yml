@@ -9,7 +9,7 @@ dependencies:
   - python-dateutil=2.8.2
   - pip:
     - sentencepiece
-    - ipywidgets==7.6.5
+    - ipywidgets==8.0.4
     - plotly==5.13.1
     - matplotlib==3.7.0
     - numpy==1.23.5
